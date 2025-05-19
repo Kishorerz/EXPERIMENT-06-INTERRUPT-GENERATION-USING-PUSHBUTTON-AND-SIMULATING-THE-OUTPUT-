@@ -1,8 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
-NAME: PRIYANKA A
-
-REG.NO: 212222230113
+NAME: Kishor Kumar B
+REG.NO: 212223240072
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
